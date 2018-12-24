@@ -1,0 +1,4 @@
+#Mon Dec 10 14:35:28 ICT 2018
+base.0=D\:\\MyProjects\\JavaProjects\\AndroidStudioProjects\\First Api Client using Retrofit\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
